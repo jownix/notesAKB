@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UTS_AKB_10120142</string>
+    <string name="profile">Profil</string>
+    <string name="notes">Notes</string>
+    <string name="info">Home</string>
+    <string name="nama">Nama : Jhonathan Kenzo</string>
+    <string name="kelas">Kelas : IF-4</string>
+    <string name="nim">NIM : 10120142</string>
+    <string name="email">Email : jhonathan.10120142@mahasiswa.unikom.ac.id</string>
+    <string name="txt_welcome">Selamat Datang</string>
+    <string name="txt_intro">Aplikasi ini bertujuan sebagai tugas untuk memenuhi Ujian Tengah Semester mata kuliah Aplikasi Komputasi Bergerak yang diampu oleh Bapak Alif Finandhita, S.Kom, M.T.</string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="memo">Halo mari nyatet</string>
+    <string name="penjelasan">Tekan tombol + untuk menambahkan catatan</string>
+    <string name="txt_add">Nyatet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
